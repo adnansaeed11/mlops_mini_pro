@@ -1,0 +1,8 @@
+2025-05-03 20:55:34,198 - model_evaluation - ERROR - Error occurred while saving the metrics: [Errno 2] No such file or directory: 'reports/metrics.json'
+2025-05-03 20:55:34,199 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: 'reports/metrics.json'
+2025-05-03 20:56:45,297 - model_evaluation - ERROR - Error occurred while saving the metrics: [Errno 2] No such file or directory: 'reports/metrics.json'
+2025-05-03 20:56:45,298 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: 'reports/metrics.json'
+2025-05-03 20:58:28,711 - model_evaluation - ERROR - Error occurred while saving the model info: [Errno 2] No such file or directory: 'reports/experiment_info.json'
+2025-05-03 20:58:28,713 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: 'reports/experiment_info.json'
+2025-05-03 20:59:49,081 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: 'mlops_mini_pro/reports/model_info.json'
+2025-05-03 21:01:50,018 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: 'reports/model_info.json'

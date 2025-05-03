@@ -1,0 +1,8 @@
+2025-05-03 20:03:24,080 - feature_engineering - ERROR - Error during Bag of Words transformation: [Errno 2] No such file or directory: 'models/vectorizer.pkl'
+2025-05-03 20:03:24,081 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'models/vectorizer.pkl'
+2025-05-03 20:04:42,832 - feature_engineering - ERROR - Error during Bag of Words transformation: [Errno 2] No such file or directory: 'models/vectorizer.pkl'
+2025-05-03 20:04:42,832 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'models/vectorizer.pkl'
+2025-05-03 20:06:29,667 - feature_engineering - ERROR - Error during Bag of Words transformation: [Errno 2] No such file or directory: 'models/vectorizer.pkl'
+2025-05-03 20:06:29,667 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'models/vectorizer.pkl'
+2025-05-03 20:08:56,363 - feature_engineering - ERROR - Error during Bag of Words transformation: [Errno 2] No such file or directory: './models/vectorizer.pkl'
+2025-05-03 20:08:56,364 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: './models/vectorizer.pkl'
